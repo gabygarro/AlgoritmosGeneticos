@@ -79,3 +79,5 @@ Indica que hay 4 ciudades donde las distancias son: d(1,2) = 3, d(1,3) = 1, d(1,
 2 → 1 → 3 → 4 → 2.
 
 1 → 4 → 3 → 2 → 1.
+
+<b>Para más información, consulte el pdf "Documentación"</b>
