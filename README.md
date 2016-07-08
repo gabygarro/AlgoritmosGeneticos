@@ -2,6 +2,7 @@
 Genetic algorithms - Knapsack and Traveling Salesman problems implemented in Java (Spanish)
 
 Instituto Tecnológico de Costa Rica - Ingeniería en Computación
+
 Curso Análisis de Algoritmos - I Semestre 2015
 
 Algoritmos genéticos - Knapsack y TSP - Java
